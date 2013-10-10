@@ -1,1 +1,1 @@
-This is the source code of Lukas White's Stripe integration article, published on Sitepoint:
+This is the source code of Lukas White's Stripe integration article, published on Sitepoint: www.sitepoint.com/selling-downloads-stripe-laravel/
